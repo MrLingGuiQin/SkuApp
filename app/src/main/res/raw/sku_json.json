@@ -1,0 +1,213 @@
+{
+  "skuProductList": [
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446363457472.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006635",
+      "skuGroup": "0000023343,0000023365,0000023408",
+      "skuPrice": "1192.00",
+      "skuProdEnumValue": "200x230cm,1.5kg,璀璨星空",
+      "skuStorage": "0"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358917007.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006636",
+      "skuGroup": "0000023343,0000023365,0000023409",
+      "skuPrice": "1192.00",
+      "skuProdEnumValue": "200x230cm,1.5kg,常青藤",
+      "skuStorage": "100"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358917463.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006633",
+      "skuGroup": "0000023343,0000023364,0000023416",
+      "skuPrice": "1072.00",
+      "skuProdEnumValue": "200x230cm,1kg,天使之星",
+      "skuStorage": "100"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358916839.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006634",
+      "skuGroup": "0000023343,0000023365,0000023407",
+      "skuPrice": "1192.00",
+      "skuProdEnumValue": "200x230cm,1.5kg,小城故事",
+      "skuStorage": "0"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358917286.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006639",
+      "skuGroup": "0000023343,0000023365,0000023414",
+      "skuPrice": "1192.00",
+      "skuProdEnumValue": "200x230cm,1.5kg,荷塘月色",
+      "skuStorage": "80"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358916839.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006626",
+      "skuGroup": "0000023343,0000023364,0000023407",
+      "skuPrice": "1072.00",
+      "skuProdEnumValue": "200x230cm,1kg,小城故事",
+      "skuStorage": "0"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446363457472.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006627",
+      "skuGroup": "0000023343,0000023364,0000023408",
+      "skuPrice": "1072.00",
+      "skuProdEnumValue": "200x230cm,1kg,璀璨星空",
+      "skuStorage": "100"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358917007.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006628",
+      "skuGroup": "0000023343,0000023364,0000023409",
+      "skuPrice": "1072.00",
+      "skuProdEnumValue": "200x230cm,1kg,常青藤",
+      "skuStorage": "100"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358917095.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006637",
+      "skuGroup": "0000023343,0000023365,0000023412",
+      "skuPrice": "1192.00",
+      "skuProdEnumValue": "200x230cm,1.5kg,水墨江南",
+      "skuStorage": "0"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358917095.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006629",
+      "skuGroup": "0000023343,0000023364,0000023412",
+      "skuPrice": "1072.00",
+      "skuProdEnumValue": "200x230cm,1kg,水墨江南",
+      "skuStorage": "50"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358917177.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006638",
+      "skuGroup": "0000023343,0000023365,0000023413",
+      "skuPrice": "1192.00",
+      "skuProdEnumValue": "200x230cm,1.5kg,贵族典雅",
+      "skuStorage": "100"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358917177.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006630",
+      "skuGroup": "0000023343,0000023364,0000023413",
+      "skuPrice": "1072.00",
+      "skuProdEnumValue": "200x230cm,1kg,贵族典雅",
+      "skuStorage": "0"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358917463.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006641",
+      "skuGroup": "0000023343,0000023365,0000023416",
+      "skuPrice": "1192.00",
+      "skuProdEnumValue": "200x230cm,1.5kg,天使之星",
+      "skuStorage": "100"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358917372.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006632",
+      "skuGroup": "0000023343,0000023364,0000023415",
+      "skuPrice": "1072.00",
+      "skuProdEnumValue": "200x230cm,1kg,美丽芳华",
+      "skuStorage": "200"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358917372.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006640",
+      "skuGroup": "0000023343,0000023365,0000023415",
+      "skuPrice": "1192.00",
+      "skuProdEnumValue": "200x230cm,1.5kg,美丽芳华",
+      "skuStorage": "100"
+    },
+    {
+      "prodImg": "https://img1.ccgn.cc/images/20180622/1/9000000024/1446358917286.jpg",
+      "prodPropName": "件",
+      "prodSkuId": "00000000000000006631",
+      "skuGroup": "0000023343,0000023364,0000023414",
+      "skuPrice": "1072.00",
+      "skuProdEnumValue": "200x230cm,1kg,荷塘月色",
+      "skuStorage": "0"
+    }
+  ],
+  "skuTypeList": [
+    {
+      "skuAttributeList": [
+        {
+          "skuAttribute": "200x230cm",
+          "skuAttributeCode": "0000023343"
+        }
+      ],
+      "skuTitle": "尺寸",
+      "skuTitleCode": "0000100306"
+    },
+    {
+      "skuAttributeList": [
+        {
+          "skuAttribute": "1kg",
+          "skuAttributeCode": "0000023364"
+        },
+        {
+          "skuAttribute": "1.5kg",
+          "skuAttributeCode": "0000023365"
+        }
+      ],
+      "skuTitle": "重量",
+      "skuTitleCode": "0000100307"
+    },
+    {
+      "skuAttributeList": [
+        {
+          "skuAttribute": "小城故事",
+          "skuAttributeCode": "0000023407"
+        },
+        {
+          "skuAttribute": "璀璨星空",
+          "skuAttributeCode": "0000023408"
+        },
+        {
+          "skuAttribute": "常青藤",
+          "skuAttributeCode": "0000023409"
+        },
+        {
+          "skuAttribute": "水墨江南",
+          "skuAttributeCode": "0000023412"
+        },
+        {
+          "skuAttribute": "贵族典雅",
+          "skuAttributeCode": "0000023413"
+        },
+        {
+          "skuAttribute": "荷塘月色",
+          "skuAttributeCode": "0000023414"
+        },
+        {
+          "skuAttribute": "美丽芳华",
+          "skuAttributeCode": "0000023415"
+        },
+        {
+          "skuAttribute": "天使之星",
+          "skuAttributeCode": "0000023416"
+        }
+      ],
+      "skuTitle": "颜色",
+      "skuTitleCode": "0000100322"
+    }
+  ],
+  "totalStorage": 1600
+}

@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txt_sku_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="5dp"
+        android:text="颜色"
+        android:textSize="16sp" />
+
+    <com.google.android.flexbox.FlexboxLayout
+        android:id="@+id/flb_sku_flexbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ffffffff"
+        app:alignContent="flex_start"
+        app:alignItems="flex_start"
+        app:dividerDrawable="@drawable/product_sku_space_white_bg"
+        app:flexDirection="row"
+        app:flexWrap="wrap"
+        app:justifyContent="flex_start"
+        app:showDivider="middle|end">
+
+    </com.google.android.flexbox.FlexboxLayout>
+</LinearLayout>

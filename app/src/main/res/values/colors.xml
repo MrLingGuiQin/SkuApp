@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="titlebar_ok_textcolor">#FFFFFFFF</color>
+    <color name="titlebar_title_textcolor">#ffffff</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#ff2727</color>
+    <color name="gray">#dfdddd</color>
+    <color name="orange">#ff7f00</color>
+    <color name="default_text_color">#3d3d3d</color>
+    <color name="sku_text_normal_color">#FF2F2C2C</color>
+    <color name="sku_text_select_color">#FFFFFF</color>
+    <color name="sku_text_no_enable_color">#dfdddd</color>
+</resources>

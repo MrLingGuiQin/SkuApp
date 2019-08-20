@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sku_popupwindows"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent">
+
+    <LinearLayout
+        android:id="@+id/ll_head"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@color/transparent" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="#ffffffff">
+
+            <Button
+                android:id="@+id/btn_product_sku_dialog_close"
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/icon_close" />
+
+            <TextView
+                android:id="@+id/txt_product_sku_dialog_product_price"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_marginLeft="130dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:text="￥100.00"
+                android:textColor="@color/red"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_product_sku_dialog_product_storage"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_alignLeft="@+id/txt_product_sku_dialog_product_price"
+                android:layout_below="@+id/txt_product_sku_dialog_product_price"
+                android:gravity="center_vertical"
+                android:text="库存：200 件"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/txt_product_sku_dialog_select_product_info"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_alignLeft="@+id/txt_product_sku_dialog_product_price"
+                android:layout_below="@+id/txt_product_sku_dialog_product_storage"
+                android:gravity="center_vertical"
+                android:singleLine="true"
+                android:textSize="14sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="5dp"
+                android:background="@color/gray" />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_product_sku_dialog_product_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="15dp"
+        android:background="@color/white"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher" />
+
+    <ListView
+        android:id="@+id/lsv_product_sku_dialog_product_sku"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/ll_head"
+        android:layout_marginBottom="50dp"
+        android:background="#ffffffff"
+        android:divider="#00000000"
+        android:dividerHeight="0dp"
+        android:listSelector="@android:color/transparent"
+        android:paddingBottom="10dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="10dp" />
+
+    <Button
+        android:id="@+id/btn_product_sku_dialog_ok"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:background="@color/orange"
+        android:gravity="center"
+        android:text="确定"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+
+</RelativeLayout>
